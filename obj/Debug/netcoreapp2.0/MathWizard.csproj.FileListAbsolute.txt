@@ -1,0 +1,10 @@
+C:\CIDM3312\MathWizard\bin\Debug\netcoreapp2.0\MathWizard.deps.json
+C:\CIDM3312\MathWizard\bin\Debug\netcoreapp2.0\MathWizard.runtimeconfig.json
+C:\CIDM3312\MathWizard\bin\Debug\netcoreapp2.0\MathWizard.runtimeconfig.dev.json
+C:\CIDM3312\MathWizard\bin\Debug\netcoreapp2.0\MathWizard.dll
+C:\CIDM3312\MathWizard\bin\Debug\netcoreapp2.0\MathWizard.pdb
+C:\CIDM3312\MathWizard\obj\Debug\netcoreapp2.0\MathWizard.csproj.CoreCompileInputs.cache
+C:\CIDM3312\MathWizard\obj\Debug\netcoreapp2.0\MathWizard.AssemblyInfoInputs.cache
+C:\CIDM3312\MathWizard\obj\Debug\netcoreapp2.0\MathWizard.AssemblyInfo.cs
+C:\CIDM3312\MathWizard\obj\Debug\netcoreapp2.0\MathWizard.dll
+C:\CIDM3312\MathWizard\obj\Debug\netcoreapp2.0\MathWizard.pdb
